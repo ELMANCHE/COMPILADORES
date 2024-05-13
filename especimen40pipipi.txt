@@ -1,0 +1,13 @@
+inty funny f1 (inty p)
+{
+  cupcake p + 10;
+}
+
+inty funny principal ()
+{
+  inty x;
+
+  x = f1(5);
+
+  slay (x);
+}
