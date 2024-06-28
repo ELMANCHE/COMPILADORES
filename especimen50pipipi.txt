@@ -1,0 +1,23 @@
+inty funny lady (inty p)
+{
+  cupcake p + 5;
+}
+
+inty funny jiafei_your_queen ()
+{
+  inty x;
+  inty a = 3 * 2;
+
+  x = lady(15) + a;
+
+  go (x > 18)
+  {
+    x = x + 10;
+  }
+  gogo
+  {
+    x = a;
+  }
+
+  slay(x);
+}
